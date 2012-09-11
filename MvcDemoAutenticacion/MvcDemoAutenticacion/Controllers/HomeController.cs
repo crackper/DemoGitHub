@@ -10,7 +10,7 @@ namespace MvcDemoAutenticacion.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "ASP.NET MVC";
+            ViewBag.Message = "WEY";
 
             return View();
         }
