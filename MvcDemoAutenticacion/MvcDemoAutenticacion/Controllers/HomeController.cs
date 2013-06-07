@@ -19,5 +19,10 @@ namespace MvcDemoAutenticacion.Controllers
         {
             return View();
         }
+
+        public ActionResult validar(int id)
+        {
+            return View();
+        }
     }
 }
